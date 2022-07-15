@@ -1,8 +1,7 @@
-# SpeechToUnreal_Docs
-This repo is for documentation and reporting issues related to the Speech-To-Unreal voice recognition Unreal Engine plugin.
+# Speech-To-Unreal Documentation
 
-See the SolarStormInteractive discord to get into the conversation about this plugin:
+This repo is for documentation the Speech-To-Unreal voice recognition Unreal Engine plugin.
 
-https://discord.gg/zBXM6VC4r8
+See the [Solar Storm Interactive discord](https://discord.gg/zBXM6VC4r8) to get into the conversation about this plugin. This is also a great place to get near immediate support!
 
-See the Wiki for documentation
+See the [Wiki](https://github.com/SolarStormInteractive/SpeechToLife_Docs/wiki) for the documentation
